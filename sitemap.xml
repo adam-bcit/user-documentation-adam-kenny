@@ -2,26 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sitename.example/</loc>
-         <lastmod>2025-03-20</lastmod>
+         <lastmod>2025-04-03</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Glossary/</loc>
-         <lastmod>2025-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/Task1/</loc>
-         <lastmod>2025-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/Task2/</loc>
-         <lastmod>2025-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/Task3/</loc>
-         <lastmod>2025-03-20</lastmod>
+         <lastmod>2025-04-03</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Troubleshooting/</loc>
-         <lastmod>2025-03-20</lastmod>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step1_open_blender/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step2_delete_cube/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step3_add_monkey/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step4_move_scale_rotate/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step5_smooth_surface/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step6_add_materials/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step7_lighting_and_camera/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/step8_render_image/</loc>
+         <lastmod>2025-04-03</lastmod>
     </url>
 </urlset>
