@@ -25,23 +25,19 @@
          <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/step4_move_scale_rotate/</loc>
+         <loc>https://sitename.example/step4_smooth_surface/</loc>
          <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/step5_smooth_surface/</loc>
+         <loc>https://sitename.example/step5_add_materials/</loc>
          <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/step6_add_materials/</loc>
+         <loc>https://sitename.example/step6_lighting_and_camera/</loc>
          <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/step7_lighting_and_camera/</loc>
-         <lastmod>2025-04-03</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/step8_render_image/</loc>
+         <loc>https://sitename.example/step7_render_image/</loc>
          <lastmod>2025-04-03</lastmod>
     </url>
 </urlset>
