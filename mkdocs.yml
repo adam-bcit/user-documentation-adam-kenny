@@ -23,8 +23,7 @@ theme:
         text: Merriweather Sans
       icon:
         logo: assets/image.png
-extra_css:
-  - css/extra.css
+
 nav:
   - Home: index.md
   - Step 1: step1_open_blender.md
@@ -35,5 +34,3 @@ nav:
   - Step 6: step6_add_materials.md
   - Step 7: step7_lighting_and_camera.md
   - Step 8: step8_render_image.md
-  - Glossary: Glossary/index.md
-  - Troubleshooting: Troubleshooting/index.md
