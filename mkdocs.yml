@@ -23,14 +23,14 @@ theme:
         text: Merriweather Sans
       icon:
         logo: assets/image.png
-
+        
 nav:
   - Home: index.md
-  - Step 1: step1_open_blender.md
-  - Step 2: step2_delete_cube.md
-  - Step 3: step3_add_monkey.md
-  - Step 4: step4_move_scale_rotate.md
-  - Step 5: step5_smooth_surface.md
-  - Step 6: step6_add_materials.md
-  - Step 7: step7_lighting_and_camera.md
-  - Step 8: step8_render_image.md
+  - 1. Open Blender: step1_open_blender.md
+  - 2. Delete Cube: step2_delete_cube.md
+  - 3. Add Monkey: step3_add_monkey.md
+  - 4. Smooth Monkey: step4_smooth_surface.md
+  - 5. Add Colour Material: step5_add_materials.md
+  - 6. Add Light: step6_lighting_and_camera.md
+  - 7. Render: step7_render_image.md
+  - Troubleshooting: Troubleshooting.md
