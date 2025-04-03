@@ -1,9 +1,8 @@
-site_name: My MkDocs Material Documentation
+site_name: How To Make a Monkey in Blender
 site_url: https://sitename.example
 theme:
   name: material
   palette:
-    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
@@ -14,8 +13,6 @@ theme:
         text: Merriweather Sans
       icon:
         logo: assets/image.png
-
-    # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -25,4 +22,18 @@ theme:
       font:
         text: Merriweather Sans
       icon:
-        logo: assets/image.png    
+        logo: assets/image.png
+extra_css:
+  - css/extra.css
+nav:
+  - Home: index.md
+  - Step 1: step1_open_blender.md
+  - Step 2: step2_delete_cube.md
+  - Step 3: step3_add_monkey.md
+  - Step 4: step4_move_scale_rotate.md
+  - Step 5: step5_smooth_surface.md
+  - Step 6: step6_add_materials.md
+  - Step 7: step7_lighting_and_camera.md
+  - Step 8: step8_render_image.md
+  - Glossary: Glossary/index.md
+  - Troubleshooting: Troubleshooting/index.md
