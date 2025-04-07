@@ -1,4 +1,4 @@
-# ✅ Step 2: Delete the Default Cube
+# ✅ Step 2: Delete Default Scene
 
 <center>1. Hold down **Shift** and click on the light in the scene to select both the default cube and the light.<center>
 

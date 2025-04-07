@@ -26,11 +26,14 @@ theme:
         
 nav:
   - Home: index.md
+  - Introduction: Introduction.md
+  - Prerequisites: Prerequisites.md
   - 1. Open Blender: step1_open_blender.md
-  - 2. Delete Cube: step2_delete_cube.md
+  - 2. Delete Default Scene: step2_delete_scene.md
   - 3. Add Monkey: step3_add_monkey.md
   - 4. Smooth Monkey: step4_smooth_surface.md
   - 5. Add Colour Material: step5_add_materials.md
   - 6. Add Light: step6_lighting_and_camera.md
   - 7. Render: step7_render_image.md
   - Troubleshooting: Troubleshooting.md
+  - Glossary: Glossary.md
