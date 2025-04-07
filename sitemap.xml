@@ -2,42 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sitename.example/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Glossary/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Introduction/</loc>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Prerequisites/</loc>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Troubleshooting/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/step1_open_blender/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/step2_delete_cube/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <loc>https://sitename.example/step2_delete_scene/</loc>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/step3_add_monkey/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/step4_smooth_surface/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/step5_add_materials/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/step6_lighting_and_camera/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/step7_render_image/</loc>
-         <lastmod>2025-04-03</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
 </urlset>

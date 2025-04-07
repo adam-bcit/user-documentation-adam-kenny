@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://sitename.example/step6_lighting_and_camera/">
+        <link rel="canonical" href="https://sitename.example/Introduction/">
       
       
-        <link rel="prev" href="../step5_add_materials/">
+        <link rel="prev" href="..">
       
       
-        <link rel="next" href="../step7_render_image/">
+        <link rel="next" href="../Prerequisites/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -22,7 +22,7 @@
     
     
       
-        <title>6. Add Light - How To Make a Monkey in Blender</title>
+        <title>Introduction - How To Make a Monkey in Blender</title>
       
     
     
@@ -74,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#step-6-setup-lighting-camera" class="md-skip">
+        <a href="#introduction" class="md-skip">
           Skip to content
         </a>
       
@@ -110,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              6. Add Light
+              Introduction
             
           </span>
         </div>
@@ -247,10 +247,31 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../Introduction/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -260,6 +281,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about-blender" class="md-nav__link">
+    <span class="md-ellipsis">
+      About Blender
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#purpose-of-this-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      Purpose of This Guide
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intended-audience" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intended Audience
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -394,19 +462,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../step6_lighting_and_camera/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -416,7 +475,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -504,6 +562,41 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about-blender" class="md-nav__link">
+    <span class="md-ellipsis">
+      About Blender
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#purpose-of-this-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      Purpose of This Guide
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intended-audience" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intended Audience
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -518,34 +611,25 @@
 
 
 
-<h1 id="step-6-setup-lighting-camera">✅ Step 6: Setup Lighting &amp; Camera</h1>
-<p><br />
-<center>1. Press <strong>Shift + A</strong> to bring up the context menu.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Shift_A_Light.png" /></p>
-<p><br />
-<center>2. Press <strong>Shift + A</strong> to bring up the context menu.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Shift_A_Light.png" /></p>
-<p><br />
-<center>3. Hover over the <strong>Light</strong> sub-menu.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Hover_Light.png" /></p>
-<p><br />
-<center>4. Click on the <strong>Point</strong> option.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Point_Light_Click.png" /></p>
-<p><br />
-<center>5. Click on the <strong>Point</strong> object in the project hierarchy (top left)<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Point_Hierarchy.png" /></p>
-<p><br />
-<center>6. Press the <strong>G</strong> key to move object, then press the <strong>Y</strong> key to lock movement to the y-axis, then finally, type "-" and "2" to move it 2 units to the left, which puts it in front of the monkey.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Move_Light.png" /></p>
-<p><br />
-<center>7. With the light still selected (see #4 if light unselected) locate and click on the <strong>Data</strong> tab (a lightbulb).<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Lightbulb.png" /></p>
-<p><br />
-<center>8. Click on the wattage in the <strong>Power</strong> slider.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Wattage_Find.png" /></p>
-<p><br />
-<center>9. Type "100", and press enter to increase power of the <strong>Point Light</strong>.<center></p>
-<p><img alt="Blender Screenshot" src="../assets/Screenshot_Power_Change.png" /></p>
+<h1 id="introduction">Introduction</h1>
+<p>Welcome to <strong>How To Make a Monkey in Blender</strong>! This comprehensive guide is designed to walk you through the process of creating, refining, and rendering a 3D monkey model using Blender's powerful tools.</p>
+<h2 id="about-blender">About Blender</h2>
+<p>Blender is a free and open-source 3D creation suite that supports modeling, animation, rendering, and more. It's an ideal platform for beginners and professionals alike, offering a robust set of features to bring your creative ideas to life.</p>
+<h2 id="purpose-of-this-guide">Purpose of This Guide</h2>
+<p>This guide provides step-by-step instructions for:
+- <strong>Starting a New Project:</strong> Learn how to open Blender and set up your workspace.
+- <strong>Deleting the Default Cube:</strong> Remove the initial cube to prepare for new objects.
+- <strong>Adding the Monkey Mesh:</strong> Introduce Blender’s iconic monkey model (Suzanne) to your scene.
+- <strong>Smoothing and Refining:</strong> Apply shading and modifiers to enhance the model’s appearance.
+- <strong>Applying Materials:</strong> Customize the look of your model with colours and textures.
+- <strong>Setting Up Lighting and Camera:</strong> Arrange lighting and camera angles for optimal rendering.
+- <strong>Rendering the Final Image:</strong> Generate a high-quality render of your 3D scene.</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<p>This guide is crafted for:
+- <strong>Beginners:</strong> Users new to Blender who need clear, concise, and visual instructions.
+- <strong>Intermediate Users:</strong> Individuals seeking to refine their skills and learn best practices.
+- <strong>Hobbyists &amp; Students:</strong> Anyone interested in exploring 3D modeling and rendering as a creative outlet or academic project.</p>
+<p>By following this guide, you'll not only learn the technical steps involved but also gain insights into effective troubleshooting and key terminology. Let’s embark on this creative journey and master the basics of Blender together!</p>
 
 
 
